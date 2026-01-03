@@ -1,6 +1,6 @@
-# Hi 👋, I'm Saif Ibrahim
+# Hello 👋, I'm Saif Ibrahim
 
-🎯I’m passionate about turning data into actionable insights using **Python, Statistics, and Machine Learning**.  
+I’m passionate about turning data into actionable insights using **Python, Statistics, and Machine Learning**.  
 Currently building my skills through hands-on practice in **EDA, predictive modeling, and AI fundamentals**.
 
 ---
